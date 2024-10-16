@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="adaptc.gradle.fat.jar" type="repository">
+    <properties maven-id="com.adaptc.gradle:fat-jar:0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adaptc/gradle/fat-jar/0.1/fat-jar-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

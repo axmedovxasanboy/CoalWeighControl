@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ghgande.j2mod" type="repository">
+    <properties maven-id="com.ghgande:j2mod:3.2.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ghgande/j2mod/3.2.1/j2mod-3.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.10.4/jSerialComm-2.10.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
